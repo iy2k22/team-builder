@@ -21,6 +21,12 @@ node index.js
 ```
 If everything goes well, the result will be in `output/team.html`.
 
+## Testing
+You can test the classes with:
+```bash
+npm test <name_of_class>
+```
+
 ## Credits
 * [Bootstrap](https://getbootstrap.com)
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
